@@ -1,2 +1,6 @@
 # sibd-covid19-vax
-Sistema de Informação e Base de Dados sobre a Vacinação do Covid-19
+
+![sibd_relatorio-pbi_page-0001](./img/sibd_relatorio-pbi_page-0001.jpg)</br>
+![sibd_relatorio-pbi_page-0002](./img/sibd_relatorio-pbi_page-0002.jpg)</br>
+![sibd_relatorio-pbi_page-0003](./img/sibd_relatorio-pbi_page-0003.jpg)</br>
+![sibd_relatorio-pbi_page-0004](./img/sibd_relatorio-pbi_page-0004.jpg)</br>
